@@ -1,0 +1,16 @@
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1
+https://m3u9.ml/b/hls1/syfy.m3u8?mu3zAQc9HC3GbwJq=Si1p47JkYzUWggN1vATMqw&3U1G7qaTxrPbalZnEx=1638323684#EXTM3U
+#EXTINF:-2
+https://m3u9.ml/b/hls1/telecineaction.m3u8?mu3zAQc9HC3GbwJq=vi_MKZIBPN4HbCXDFUg7sA&3U1G7qaTxrPbalZnEx=1638323945
+#EXTINF:-3
+https://m3u9.ml/b/hls1/amc.m3u8?mu3zAQc9HC3GbwJq=TH-dCoCExRffq8sOYtgI-Q&3U1G7qaTxrPbalZnEx=1638324081
+#EXTINF:-4
+https://m3u9.ml/b/hls1/axn.m3u8?mu3zAQc9HC3GbwJq=0d1XSjogrNZ4Cv2aUu2FoA&3U1G7qaTxrPbalZnEx=1638324155
+#EXTINF:-5
+https://m3u9.ml/b/hls1/cinemax.m3u8?mu3zAQc9HC3GbwJq=kkZaehplDaaXB2Xf_3stCw&3U1G7qaTxrPbalZnEx=1638324246
